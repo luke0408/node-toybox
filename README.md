@@ -18,8 +18,8 @@
 - \[Now\] **Network Protocol Deep Dive**
   - 현대의 Network Protocol은 어떻게 발전해왔을까?
   - RFC 문서 스팩을 기반으로 Protocol 코드를 직접 만들어보거나 설계해보자!
-    1. `HTTP 1.1`의 스팩([RFC 2616]()) 구현해보기 (inprogress)
-    2. `HTTP 1.1` 스팩을 기반으로 `RCP` [RFC 707]()의 요구사항 충족시켜보기
+    1. `HTTP 1.1`의 스팩 [RFC 2616](https://www.rfc-editor.org/rfc/rfc2616.html) 구현해보기 (inprogress)
+    2. `HTTP 1.1` 스팩을 기반으로 `RCP` [RFC 707](https://rfc-editor.org/rfc/rfc707.html)의 요구사항 충족시켜보기
 - \[redy for start\] **`.txt` file compiler**
   - `.js`와 `.txt`의 차이는 확장자가 다르다는 것 뿐 본질적으로 다르지 않은데 왜 `.txt`는 컴파일 되지 않을까?
   - `.txt`을 위한 `Tokenizer`, `Lexer`, `Parser`를 만들어보자!
