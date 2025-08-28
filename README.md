@@ -17,7 +17,7 @@
 
 이 레포지토리에는 다음과 같은 실험들이 포함될 예정입니다:
 
-- \[Now\] **Network Protocol Deep Dive**
+- \[Now\] **[Network Protocol Deep Dive](./packages/network-protocol-deep-dive/)**
   - 현대의 Network Protocol은 어떻게 발전해왔을까?
   - RFC 문서 스팩을 기반으로 Protocol 코드를 직접 만들어보거나 설계해보자!
     1. `HTTP 1.1`의 스팩 [RFC 2616](https://www.rfc-editor.org/rfc/rfc2616.html) 구현해보기 (inprogress)
