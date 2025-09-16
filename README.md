@@ -22,8 +22,8 @@
   - RFC 문서 스팩을 기반으로 Protocol 코드를 직접 만들어보거나 설계해보자!
     1. `HTTP 1.1`의 스팩 [RFC 2616](https://www.rfc-editor.org/rfc/rfc2616.html) 구현해보기 (inprogress)
     2. `HTTP 1.1` 스팩을 기반으로 `RCP` [RFC 707](https://rfc-editor.org/rfc/rfc707.html)의 요구사항 충족시켜보기
-- \[redy for start\] **`.txt` file compiler**
+- \[ready\] **`.txt` file compiler**
   - `.js`와 `.txt`의 차이는 확장자가 다르다는 것 뿐 본질적으로 다르지 않은데 왜 `.txt`는 컴파일 되지 않을까?
   - `.txt`을 위한 `Tokenizer`, `Lexer`, `Parser`를 만들어보자!
-- \[Now\] **HTTP Status를 더 다체롭게 활용하는 방법**
+- \[ready\] **HTTP Status를 더 다체롭게 활용하는 방법**
   - HTTP의 요청 성공 코드는 200만 존재하는 것이 아닌데, 200을 고정으로 하고 response json에 error code에 대한 필드를 새롭게 정의하고 해당 코드를 변경하면서 사용하는 모습을 자주 보았다. HTTP Status를 더 다채롭게 사용해보자!
