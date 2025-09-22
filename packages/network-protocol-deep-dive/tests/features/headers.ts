@@ -10,7 +10,7 @@ import {
   RequestHeaderName,
   ResponseHeaderName,
   EntityHeaderName,
-} from '../../src/types/headers';
+} from '#types/headers';
 
 // Utility type to compare two types for equality
 type Equal<X, Y> =

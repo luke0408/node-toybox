@@ -5,7 +5,7 @@ import {
   HTTPVersionTuple,
   KnownHTTPVersion,
   VersionNumber,
-} from '../../src/types/version';
+} from '#types/version';
 
 // Utility type to compare two types for equality
 type Equal<X, Y> =

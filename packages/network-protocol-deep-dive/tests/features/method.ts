@@ -7,7 +7,7 @@ import {
   Method,
   SafeMethod,
   StandardMethod,
-} from '../../src/types/method';
+} from '#types/method';
 
 // Utility type to compare two types for equality
 type Equal<X, Y> =

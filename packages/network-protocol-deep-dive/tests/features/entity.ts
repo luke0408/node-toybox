@@ -14,7 +14,7 @@ import {
   SuffixByteRangeSpec,
   TransferCoding,
   WeakEntityTag,
-} from '../../src/types/entity';
+} from '#types/entity';
 
 // Utility type to compare two types for equality
 type Equal<X, Y> =

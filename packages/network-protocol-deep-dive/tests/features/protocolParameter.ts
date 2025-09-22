@@ -4,7 +4,7 @@ import {
   AbsoluteURI,
   Authority,
   RequestURI,
-} from '../../src/types/protocolParameter';
+} from '#types/protocolParameter';
 
 /**
  * AbsoluteURI must start with a valid scheme followed by a colon

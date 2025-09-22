@@ -9,7 +9,7 @@ import {
   LF,
   Separator,
   SP,
-} from '../../src/types/grammar';
+} from '#types/grammar';
 
 // Utility type to compare two types for equality
 // `true` if types are identical, otherwise `false`

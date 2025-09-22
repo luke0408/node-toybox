@@ -10,7 +10,7 @@ import {
   StatusCode,
   StatusCodeClass,
   SuccessfulStatusCode,
-} from '../../src/types/status';
+} from '#types/status';
 
 // Utility type to compare two types for equality
 type Equal<X, Y> =
