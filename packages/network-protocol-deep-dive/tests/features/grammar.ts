@@ -1,26 +1,14 @@
 import { ok } from 'node:assert';
 import typia from 'typia';
 import {
-  ALPHA,
-  CHAR,
-  Comment,
   CR,
   CRLF,
-  CTL,
   DIGIT,
   HEX,
   HT,
   LF,
-  LWS,
-  LOALPHA,
-  OCTET,
-  QuotedPair,
-  QuotedString,
   Separator,
   SP,
-  TEXT,
-  Token,
-  UPALPHA,
 } from '../../src/types/grammar';
 
 // Utility type to compare two types for equality

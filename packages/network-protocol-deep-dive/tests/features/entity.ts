@@ -10,8 +10,6 @@ import {
   EntityTag,
   KnownContentCoding,
   KnownTransferCoding,
-  LanguageTag,
-  MediaType,
   StrongEntityTag,
   SuffixByteRangeSpec,
   TransferCoding,

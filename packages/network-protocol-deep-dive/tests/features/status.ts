@@ -9,7 +9,6 @@ import {
   ServerErrorStatusCode,
   StatusCode,
   StatusCodeClass,
-  StatusLineCore,
   SuccessfulStatusCode,
 } from '../../src/types/status';
 
